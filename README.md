@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I don't use GitHub very much anymore, but here's some basic information about me:
+I don't use GitHub very much anymore-- you should instead look on [my Gitlab](https://gitlab.com/akii0008)-- but here's some basic information about me:
 
 #### Personal info
 * I am just graduating high school
