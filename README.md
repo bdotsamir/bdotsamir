@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**akii0008/akii0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't use GitHub very much anymore, but here's some basic information about me:
 
-Here are some ideas to get you started:
+#### Personal info
+* I am just graduating high school
+* I am from Philadelphia
+* I use he/him pronouns
+* I have been programming since 2017
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+* Javascript is my playground. It is also where I write many of my projects. I mainly use node.js
+* Java is my first strongly-typed language, and I must say I love it. I was "forced" to learn it because of a computer science class, and I've found that types are very useful.
+* Because of Java, I've taken an interest in Typescript. It seems to be pretty cool so far.
+* I will occasionally dabble in Python. It's pretty easy to write, although I am not as proficient in it as I am with Javascript.
+* I've written an app or two with pure HTML/CSS, although recently I've been looking into React.js/Next.js, which I've found to be quite useful.
+
+#### Projects
+* Anything here is very outdated. You'll want to find me on Gitlab instead: https://gitlab.com/akii0008
+
+#### Where to find me
+[My website, naturally :) - https://akii.dev](https://akii.dev)
