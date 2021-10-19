@@ -17,6 +17,3 @@ I don't use GitHub very much anymore-- you should instead look on [my Gitlab](ht
 
 #### Projects
 * Anything here is very outdated. You'll want to find me on Gitlab instead: https://gitlab.com/akii0008
-
-#### Where to find me
-[My website, naturally :) - https://akii.dev](https://akii.dev)
