@@ -3,7 +3,7 @@
 I don't use GitHub very much anymore-- you should instead look on [my Gitlab](https://gitlab.com/akii0008)-- but here's some basic information about me:
 
 #### Personal info
-* I am a high school graduate who is takinga a gap year
+* I am a high school graduate who is taking a a gap year
 * I am from Philadelphia
 * I use he/him pronouns
 * I have been programming since 2017
