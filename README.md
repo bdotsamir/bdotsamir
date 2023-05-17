@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samir. I'm currently a rising sopomore at Temple University in Philadelphia, studying Computer Science!
+My name is Samir. I'm currently a rising sophomore at Temple University in Philadelphia, studying Computer Science!
 This profile is kind of a mish-mosh of forks I'm working on with other people and school projects. If you want to see some of the personal projects I've been working on, your best bet would be my [Gitlab profile](https://gitlab.com/bdotsamir).
 
 #### Languages
