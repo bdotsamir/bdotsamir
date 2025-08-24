@@ -1,10 +1,27 @@
 ### Hi there 👋
 
-My name is Samir. I'm currently a senior at Temple University in Philadelphia, studying Computer Science.
-This profile is a mish-mosh of forks I'm working on with other people and school projects. If you want to see some of the personal projects I've been working on, your best bet would be my [Gitlab profile](https://gitlab.com/bdotsamir).
+My name is Samir. I'm a student at Temple University in Philadelphia, studying Computer Science.
+* More projects: [Gitlab](https://gitlab.com/bdotsamir)
+* School projects: [/samirbuch](https://github.com/samirbuch)
 
-#### Languages
-* TypeScript is my playground. It is also where I write many of my projects. I mainly use node.js
-* Java I will use occasionally when working with anything in the Minecraft development space (plugins, mods), though these days that's pretty few and far between as I have moved on to other professional endeavours.
-* I will occasionally dabble in Python- it's pretty easy to write, although I am not as proficient in it as I am with TS.
-* I've written an app or two with pure HTML/CSS, although recently I've been really into React.js/Next.js. I've published a couple of apps using React and Next.js, among them: [Who's Walking Olive?](https://gitlab.com/bdotsamir/olive) and [chestnut.tools](https://gitlab.com/bdotsamir/ub-roster).
+#### Mostly familiar with:
+* TypeScript, Java, C, Python
+
+#### Notable projects:
+* [chestnut.tools](https://chestnut.tools)
+* [PrepDuel](https://prepduel.com)
+* [Who's Walking Olive?](https://gitlab.com/bdotsamir/olive)
+
+#### Other stuff
+* I'm an educator in multiple capacities
+   * Peer Leader Captain @ Temple CST
+   * CIS 1057 Lab TA @ Temple CST
+   * Instructor @ Temple CEHD Upward Bound
+* I'm a musician
+   * Sang for the pope. No, not the current one, Pope Francis.
+   * Performed at Carnegie Hall, twice.
+   * Toured China, multiple solo performances
+   * State-ranked Tenor: top ten in 2020, first place 2021.
+ 
+### Get in touch
+[in/samir-buch](https://linkedin.com/in/samir-buch)
