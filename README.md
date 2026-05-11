@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samir. I'm a student at Temple University in Philadelphia, studying Computer Science.
+My name is Samir. I'm a recent graduate from Temple University in Philadelphia, with a degree in Computer Science.
 * More projects: [Gitlab](https://gitlab.com/bdotsamir)
 * School projects: [/samirbuch](https://github.com/samirbuch)
 
@@ -13,7 +13,7 @@ My name is Samir. I'm a student at Temple University in Philadelphia, studying C
 * [Who's Walking Olive?](https://gitlab.com/bdotsamir/olive)
 
 #### Other stuff
-* I'm an educator in multiple capacities
+* I was an educator in multiple capacities
    * Peer Leader Captain @ Temple CST
    * CIS 1057 Lab TA @ Temple CST
    * Instructor @ Temple CEHD Upward Bound
